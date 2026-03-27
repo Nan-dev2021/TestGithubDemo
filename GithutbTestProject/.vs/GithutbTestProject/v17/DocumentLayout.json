@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitWorkspace\\GithubA\\GithutbTestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70C92E98-E622-48A7-BC84-8504D0246122}|GithutbTestProject\\GithutbTestProject.csproj|d:\\gitworkspace\\githuba\\githutbtestproject\\githutbtestproject\\githutbtestproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{70C92E98-E622-48A7-BC84-8504D0246122}|GithutbTestProject\\GithutbTestProject.csproj|solutionrelative:githutbtestproject\\githutbtestproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GithutbTestProject.http",
+              "DocumentMoniker": "D:\\GitWorkspace\\GithubA\\GithutbTestProject\\GithutbTestProject\\GithutbTestProject.http",
+              "RelativeDocumentMoniker": "GithutbTestProject\\GithutbTestProject.http",
+              "ToolTip": "D:\\GitWorkspace\\GithubA\\GithutbTestProject\\GithutbTestProject\\GithutbTestProject.http",
+              "RelativeToolTip": "GithutbTestProject\\GithutbTestProject.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-27T23:08:40.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
